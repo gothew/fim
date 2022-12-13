@@ -6,5 +6,5 @@ A terminal based file manager
 
 ### Curl
 ```sh
-curl -sfL https://raw.githubusercontent.com/knipferrc/fm/main/install.sh | sh
+curl -sfL https://raw.githubusercontent.com/gothew/fim/main/install.sh | sh
 ```
